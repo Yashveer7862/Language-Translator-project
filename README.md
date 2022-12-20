@@ -1,1 +1,4 @@
 # Language-Translator-project
+API stands for Application Programming Interface. It acts as an intermediate between two applications or software. In simple terms, API acts as a messenger that takes your request to destinations and then brings back its response for you. Google API is developed by Google to allow communications with their servers and use their API keys to develop projects.
+Let’s assume a scenario, we are traveling in Italy and we don’t know how to speak Italian or we are in any other country and we don’t know their native language, then we can use this tool to overcome the problem. We can translate between all those languages which are present in google translator.
+In this form the langauge translator which we are producing is going to help us a lot in getting the knowledge and understanding of various culture traditions of various places and countries on the basis of there langauges .
